@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lunaticolupin
 - 👀 I’m interested in PHP, DB, Python
-- 🌱 I’m currently learning Python and OracleDB
+- 🌱 I’m currently learning SpringBoot and Postgresql
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me @alejandroramcr
 
