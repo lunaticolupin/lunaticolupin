@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lunaticolupin
-- 👀 I’m interested in PHP, DB, Python
+- 👀 I’m interested in PHP, DB, Python, Java
 - 🌱 I’m currently learning SpringBoot and Postgresql
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me @alejandroramcr
